@@ -1,25 +1,41 @@
-# Hi, I'm NININAHAZWE Jean Denis
+# NININAHAZWE Jean Denis
 
-## About Me
-- Full-stack developer focused on building practical web applications.
-- Interested in software architecture, clean code, and database-driven systems.
-- Currently working on library management and automation projects.
+Développeur junior en Génie Informatique, passionné par le développement logiciel, la cybersécurité, l'IA, le cloud computing et les réseaux.
 
-## Tech Stack
-- Backend: `PHP`, `MySQL`, `Node.js`
-- Frontend: `HTML`, `CSS`, `JavaScript`, `Tailwind CSS`
-- Tools: `Git`, `GitHub`, `VS Code`, `Linux`
+## Profil
+- Localisation : **Bujumbura, Burundi**
+- Formation : **Étudiant en 3ᵉ année de Génie Informatique** à l'Université du Lac Tanganyika
 
-## Featured Project
-- [BiblioTechApp](https://github.com/NININAHAZWE04/BiblioTechApp): Professional library management application (roles, loans, notifications, system settings).
+## Compétences techniques
+- Langages : `Python`, `C/C++`, `MySQL`, `Flutter`, `React.js`, `Django`
+- Développement web & logiciel :
+  - Frontend : `React.js` + `Tailwind CSS`
+  - Backend : `Django`
+  - Base de données : `MySQL`
+- Outils & plateformes : `Firebase` (authentification), `Linux`, `Apache`, `Tomcat`, `KVM`, `OMNeT++/INET`
+- Cybersécurité : `Kali Linux`, `TryHackMe`, outils offensifs et défensifs réseau
+- Création multimédia : `Adobe Premiere Pro`
 
-## Goals for 2026
-- Build production-ready full-stack apps.
-- Strengthen testing and deployment workflows.
-- Contribute to open-source projects consistently.
+## Expériences projets
+- Logiciel de gestion pour boutique en ligne : gestion clients, produits, stock et transactions
+- Simulation réseau Wi-Fi : analyse du débit, de la perte de paquets et du délai
+- Vidéo spirituelle de collecte de fonds : production Full HD avec animation de thermomètre des dons
+
+## Langues
+- Kirundi : Natif
+- Français : Courant
+- Anglais : Intermédiaire
+
+## Objectifs GitHub
+- Partager mes projets académiques et personnels
+- Démontrer mes compétences en programmation, IA et cybersécurité
+- Construire un portfolio technique solide et professionnel
+
+## Projets en vedette
+- [BiblioTechApp](https://github.com/NININAHAZWE04/BiblioTechApp)
 
 ## Contact
-- GitHub: [@NININAHAZWE04](https://github.com/NININAHAZWE04)
+- GitHub : [@NININAHAZWE04](https://github.com/NININAHAZWE04)
 
 ---
-Always learning, always shipping.
+Merci de visiter mon profil.
